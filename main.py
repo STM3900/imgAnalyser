@@ -11,7 +11,7 @@ pix = img.load()
 
 # Le décalage correspond à la position ou l'image sera réalisée sur le drapeau
 decalageDesertX = 200
-decalageDesertY = 208
+decalageDesertY = 150
 
 # Affichage d'informations dans la console
 print("Taille de l'image : {} pixels".format(img.size))
